@@ -7,7 +7,7 @@ from telegram.ext import (
 )
 
 BOT_TOKEN = "8636704367:AAHNF3cNadFMi_763m81BGca27OXD0EN29U"
-KANAL_USERNAME = "ali_bagatiy" # @ belgisiz yozing
+KANAL_USERNAME = "ali_bagatiy" 
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
